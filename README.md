@@ -1,5 +1,5 @@
 # Call-Center-Dashboard
-Call Center Dashboard using MS Power BI
+Call Center Dashboard using MS Power BI - Dashboard that contains the KPIs of the call center's agents and their customers that help managers uderstand today's trends and get insights from the data.
 
 Dashboard that contains the KPIs of the call center's agents and their customers that help managers uderstand today's trends and get insights from the data.
 
